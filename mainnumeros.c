@@ -18,19 +18,7 @@ int main() {
     printf ("\n multiplicação %d", A*B);
     printf ("\n divisão %d", A/B);
     printf ("\n resto da divisão %d", A%B);
-    printf ("\n resto divisão %d", B%A);
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-   
+    printf ("\n resto divisão %d", B%A);  
 
     return 0;
 }
